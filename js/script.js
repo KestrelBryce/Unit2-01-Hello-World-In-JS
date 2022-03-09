@@ -1,3 +1,4 @@
+// These are the mysterious ARG messages.
 function myButtonClicked () {
   // this function displays "Message"
   
