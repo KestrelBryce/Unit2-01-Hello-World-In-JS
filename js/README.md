@@ -1,0 +1,1 @@
+[![GitHub's Super Linter](https://github.com/KestrelBryce/Unit2-01-Hello-World-In-JS/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/KestrelBryce/Unit2-01-Hello-World-In-JS/actions)
